@@ -1,4 +1,4 @@
-# hackathon
+# SportIt
 
 A new Flutter project.
 
